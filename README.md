@@ -15,7 +15,6 @@
 
 # Запуск программы
 1. Клонировать репозиторий, либо его скачать   
-git clone https://gitlab.com/WorldOverHeaven/wbl0  
 2. Запустить командой     
  
 ```bash
